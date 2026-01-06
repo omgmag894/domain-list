@@ -70,16 +70,23 @@ mobile.poizon.com
 //GitHub + Copilot
 github.com
 api.github.com
+auth.github.com
+collector.github.com
+alive.github.com
 copilot.github.com
+api.githubcopilot.com
 copilot-proxy.githubusercontent.com
 copilot-telemetry.githubusercontent.com
 githubusercontent.com
 raw.githubusercontent.com
-marketplace.visualstudio.com
-vscode.dev
-update.code.visualstudio.com
 objects.githubusercontent.com
 avatars.githubusercontent.com
+pipelines.actions.githubusercontent.com
+marketplace.visualstudio.com
+update.code.visualstudio.com
+vscode.dev
+github.dev
+github.io
 
 www.planyourroom.com
 forums.truenas.com
