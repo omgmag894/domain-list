@@ -95,7 +95,14 @@ api.themoviedb.org
 image.tmdb.org
 tmdb-image-prod.b-cdn.net
 api.tmdb.org
-images.tmdb.org 
+images.tmdb.org
+firecore.com
+api.firecore.com
+sync.firecore.com
+license.firecore.com
+thetvdb.com
+api.thetvdb.com
+artworks.thetvdb.com
 
 www.planyourroom.com
 forums.truenas.com
