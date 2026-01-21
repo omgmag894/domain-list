@@ -107,6 +107,25 @@ avatars.githubusercontent.com
 pipelines.actions.githubusercontent.com
 github.dev
 github.io
+copilot.githubusercontent.com
+dc.applicationinsights.microsoft.com
+applicationsignins.microsoft.com
+login.microsoftonline.com
+aadcdn.msauth.net
+aadcdn.msftauth.net
+graph.microsoft.com
+copilot.cloud.microsoft
+vscode.gallery.vsassets.io
+vscode-sync.trafficmanager.net
+vscode-sync-insiders.trafficmanager.net
+vscode-sync-secondary.trafficmanager.net
+default.exp-tas.com
+watson.telemetry.microsoft.com
+edge.microsoft.com
+client.wns.windows.com
+displaycatalog.mp.microsoft.com
+purchase.mp.microsoft.com
+store-images.s-microsoft.com
 
 movie-api.infuse.im
 api.infuse.im
