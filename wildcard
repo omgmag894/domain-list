@@ -1,46 +1,21 @@
+// Instagram
 *.cdninstagram.com
+*.instagram.com
+cdninstagram.com
+instagram.com
+www.instagram.com
+
+// Facebook
 *.facebook.com
 *.fbcdn.net
-*.ggpht.com
-*.googleusercontent.com
-*.googlevideo.com
-*.instagram.com
-*.oaistatic.com
-*.oaiusercontent.com
-*.openai.com
-*.ytimg.com
-aistudio.google.com
-anthropic.com
-cdninstagram.com
-chat.openai.com.cdn.cloudflare.net
-chatgpt.com
-claude.ai
-connect.ngrok-agent.com
-copilot.microsoft.com
 facebook.com
 fbcdn.net
-files.oaiusercontent.com
-grok.com
-gstatic.com
-icanhazip.com
-instagram.com
-ngrok.com
-notebooklm.google
-notion-emojis.s3-us-west-2.amazonaws.com
-notion-static.com
-notion.com
-notion.new
-notion.site
-notion.so
-oaistatic.com
-production-openaicom-storage.azureedge.net
-returnyoutubedislikeapi.com
-setup.auth.openai.com
+
+// YouTube
+*.googlevideo.com
+*.ytimg.com
 wide-youtube.l.google.com
-ws.chatgpt.com
-www.instagram.com
 www.youtube.com
-x.ai
 youtu.be
 youtube-nocookie.com
 youtube-ui.l.google.com
@@ -49,3 +24,49 @@ youtubeembeddedplayer.googleapis.com
 youtubei.googleapis.com
 youtubekids.com
 ytimg.l.google.com
+returnyoutubedislikeapi.com
+
+// Google (прочее)
+*.ggpht.com
+*.googleusercontent.com
+gstatic.com
+aistudio.google.com
+notebooklm.google
+
+// OpenAI
+*.oaistatic.com
+*.oaiusercontent.com
+*.openai.com
+chat.openai.com.cdn.cloudflare.net
+chatgpt.com
+files.oaiusercontent.com
+oaistatic.com
+production-openaicom-storage.azureedge.net
+setup.auth.openai.com
+ws.chatgpt.com
+
+// Anthropic (Claude)
+anthropic.com
+claude.ai
+
+// xAI (Grok)
+grok.com
+x.ai
+
+// Microsoft Copilot
+copilot.microsoft.com
+
+// Ngrok
+connect.ngrok-agent.com
+ngrok.com
+
+// Notion
+notion-emojis.s3-us-west-2.amazonaws.com
+notion-static.com
+notion.com
+notion.new
+notion.site
+notion.so
+
+// Прочее
+icanhazip.com
