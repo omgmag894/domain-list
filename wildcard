@@ -26,12 +26,22 @@ youtubekids.com
 ytimg.l.google.com
 returnyoutubedislikeapi.com
 
+//NotebookLM
+*.notebooklm.google.com
+*.clients6.google.com
+*.gstatic.com
+*.googleusercontent.com
+*.fonts.gstatic.com
+*.accounts.google.com
+*.apis.google.com
+*.ogs.google.com
+notebooklm.google
+aistudio.google.com
+
 // Google (прочее)
 *.ggpht.com
 *.googleusercontent.com
 gstatic.com
-aistudio.google.com
-notebooklm.google
 
 // OpenAI
 *.oaistatic.com
