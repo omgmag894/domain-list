@@ -26,22 +26,39 @@ youtubekids.com
 ytimg.l.google.com
 returnyoutubedislikeapi.com
 
-//NotebookLM
-*.notebooklm.google.com
-*.clients6.google.com
-*.gstatic.com
-*.googleusercontent.com
-*.fonts.gstatic.com
-*.accounts.google.com
-*.apis.google.com
-*.ogs.google.com
+// NotebookLM
 notebooklm.google
+*.notebooklm.google.com
 aistudio.google.com
 
-// Google (прочее)
-*.ggpht.com
+// Google Drive
+drive.google.com
+*.drive.google.com
+docs.google.com
+*.docs.google.com
+sheets.google.com
+*.sheets.google.com
+slides.google.com
+*.slides.google.com
+forms.google.com
+*.forms.google.com
+
+// Google Other (Общие сервисы, статика, авторизация)
+*.accounts.google.com
+*.apis.google.com
+*.clients6.google.com
+*.googleapis.com
+*.gstatic.com
+*.fonts.gstatic.com
 *.googleusercontent.com
+*.ggpht.com
+*.ogs.google.com
 gstatic.com
+play.google.com
+contacts.google.com
+lh3.googleusercontent.com
+drive-thirdparty.googleusercontent.com
+drive-data-export.usercontent.google.com
 
 // OpenAI
 *.oaistatic.com
@@ -71,12 +88,12 @@ connect.ngrok-agent.com
 ngrok.com
 
 // Notion
-notion-emojis.s3-us-west-2.amazonaws.com
-notion-static.com
 notion.com
+notion.so
 notion.new
 notion.site
-notion.so
+notion-static.com
+notion-emojis.s3-us-west-2.amazonaws.com
 
 // Прочее
 icanhazip.com
