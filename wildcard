@@ -65,12 +65,11 @@ drive-data-export.usercontent.google.com
 *.oaiusercontent.com
 *.openai.com
 chat.openai.com.cdn.cloudflare.net
-chatgpt.com
+*.chatgpt.com
 files.oaiusercontent.com
 oaistatic.com
 production-openaicom-storage.azureedge.net
 setup.auth.openai.com
-ws.chatgpt.com
 
 // Anthropic (Claude)
 anthropic.com
