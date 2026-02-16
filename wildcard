@@ -1,75 +1,44 @@
 // Instagram
-*.cdninstagram.com
 *.instagram.com
-cdninstagram.com
-instagram.com
-www.instagram.com
+*.cdninstagram.com
 
 // Facebook
 *.facebook.com
 *.fbcdn.net
-facebook.com
-fbcdn.net
 
 // YouTube
+*.youtube.com
 *.googlevideo.com
 *.ytimg.com
-wide-youtube.l.google.com
-www.youtube.com
+youtubei.googleapis.com
+youtubeembeddedplayer.googleapis.com
 youtu.be
 youtube-nocookie.com
-youtube-ui.l.google.com
-youtube.com
-youtubeembeddedplayer.googleapis.com
-youtubei.googleapis.com
-youtubekids.com
-ytimg.l.google.com
-returnyoutubedislikeapi.com
 
-// NotebookLM
-notebooklm.google
-*.notebooklm.google.com
+// NotebookLM / Google AI
 aistudio.google.com
+notebooklm.google.com
 
-// Google Drive
-drive.google.com
+// Google Workspace (Drive / Docs / Sheets / Slides / Forms)
 *.drive.google.com
-docs.google.com
 *.docs.google.com
-sheets.google.com
 *.sheets.google.com
-slides.google.com
 *.slides.google.com
-forms.google.com
 *.forms.google.com
 
-// Google Other (Общие сервисы, статика, авторизация)
-*.accounts.google.com
-*.apis.google.com
-*.clients6.google.com
+// Google Core (авторизация, API, статика)
+*.google.com
 *.googleapis.com
 *.gstatic.com
-*.fonts.gstatic.com
 *.googleusercontent.com
 *.ggpht.com
-*.ogs.google.com
-gstatic.com
-play.google.com
-contacts.google.com
-lh3.googleusercontent.com
-drive-thirdparty.googleusercontent.com
-drive-data-export.usercontent.google.com
 
 // OpenAI
+*.openai.com
+*.chatgpt.com
 *.oaistatic.com
 *.oaiusercontent.com
-*.openai.com
-chat.openai.com.cdn.cloudflare.net
-*.chatgpt.com
-files.oaiusercontent.com
-oaistatic.com
 production-openaicom-storage.azureedge.net
-setup.auth.openai.com
 
 // Anthropic (Claude)
 anthropic.com
@@ -83,8 +52,8 @@ x.ai
 copilot.microsoft.com
 
 // Ngrok
-connect.ngrok-agent.com
 ngrok.com
+connect.ngrok-agent.com
 
 // Notion
 notion.com
@@ -93,6 +62,18 @@ notion.new
 notion.site
 notion-static.com
 notion-emojis.s3-us-west-2.amazonaws.com
+
+// Telegram (минимально необходимое)
+*.telegram.org
+*.t.me
+*.telegra.ph
+*.cdn-telegram.org
+*.telesco.pe
+
+// WhatsApp (если нужен)
+*.whatsapp.com
+*.whatsapp.net
+wa.me
 
 // Прочее
 icanhazip.com
