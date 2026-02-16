@@ -30,24 +30,6 @@ youtubekids.com
 ytimg.l.google.com
 returnyoutubedislikeapi.com
 
-// NotebookLM / Google AI / Gemini
-gemini.google
-gemini.google.com
-notebooklm.google
-notebooklm.google.com
-aistudio.google.com
-deepmind.com
-deepmind.google
-ai.google.dev
-generativeai.google
-makersuite.google.com
-bard.google.com
-jules.google
-jules.google.com
-labs.google
-stitch.withgoogle.com
-clients6.google.com
-
 // Google Workspace & Core
 google.com
 *.google.com
@@ -101,9 +83,6 @@ x.ai
 // Microsoft Copilot
 copilot.microsoft.com
 
-// Ngrok
-ngrok.com
-connect.ngrok-agent.com
 
 // Notion
 notion.com
