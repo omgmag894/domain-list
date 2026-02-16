@@ -1,87 +1,93 @@
 // Instagram
-*.instagram.com
-*.cdninstagram.com
 instagram.com
+*.instagram.com
 www.instagram.com
 cdninstagram.com
+*.cdninstagram.com
 
 // Facebook
-*.facebook.com
-*.fbcdn.net
 facebook.com
+*.facebook.com
 fbcdn.net
+*.fbcdn.net
 
 // YouTube
+youtube.com
 *.youtube.com
+www.youtube.com
+youtu.be
+googlevideo.com
 *.googlevideo.com
+ytimg.com
 *.ytimg.com
+i.ytimg.com
 youtubei.googleapis.com
 youtubeembeddedplayer.googleapis.com
-youtu.be
 youtube-nocookie.com
-www.youtube.com
-youtube.com
 wide-youtube.l.google.com
 youtube-ui.l.google.com
 youtubekids.com
 ytimg.l.google.com
 returnyoutubedislikeapi.com
 
-// NotebookLM / Google AI
-aistudio.google.com
+// NotebookLM / Google AI / Gemini
+gemini.google
+gemini.google.com
+notebooklm.google
 notebooklm.google.com
+aistudio.google.com
 deepmind.com
 deepmind.google
 ai.google.dev
 generativeai.google
 makersuite.google.com
 bard.google.com
-gemini.google
-gemini.google.com
-notebooklm.google
 jules.google
 jules.google.com
 labs.google
 stitch.withgoogle.com
 clients6.google.com
 
-// Google Workspace (Drive / Docs / Sheets / Slides / Forms)
-*.drive.google.com
-*.docs.google.com
-*.sheets.google.com
-*.slides.google.com
-*.forms.google.com
-drive.google.com
-docs.google.com
-sheets.google.com
-slides.google.com
-forms.google.com
-
-// Google Core (авторизация, API, статика)
+// Google Workspace & Core
+google.com
 *.google.com
+googleapis.com
 *.googleapis.com
-*.gstatic.com
-*.googleusercontent.com
-*.ggpht.com
 gstatic.com
+*.gstatic.com
 googleusercontent.com
+*.googleusercontent.com
 ggpht.com
+*.ggpht.com
+drive.google.com
+*.drive.google.com
+docs.google.com
+*.docs.google.com
+sheets.google.com
+*.sheets.google.com
+slides.google.com
+*.slides.google.com
+forms.google.com
+*.forms.google.com
 play.google.com
 contacts.google.com
 lh3.googleusercontent.com
 drive-thirdparty.googleusercontent.com
 drive-data-export.usercontent.google.com
 
-// OpenAI
+// OpenAI / ChatGPT
+openai.com
 *.openai.com
-*.chatgpt.com
-*.oaistatic.com
-*.oaiusercontent.com
-production-openaicom-storage.azureedge.net
 chatgpt.com
-ws.chatgpt.com
+*.chatgpt.com
+oaistatic.com
+*.oaistatic.com
+oaiusercontent.com
+*.oaiusercontent.com
 files.oaiusercontent.com
+ws.chatgpt.com
 setup.auth.openai.com
+production-openaicom-storage.azureedge.net
 chat.openai.com.cdn.cloudflare.net
 
 // Anthropic (Claude)
@@ -96,7 +102,6 @@ x.ai
 copilot.microsoft.com
 
 // Ngrok
-grok.com
 ngrok.com
 connect.ngrok-agent.com
 
@@ -108,9 +113,10 @@ notion.site
 notion-static.com
 notion-emojis.s3-us-west-2.amazonaws.com
 
-
 // WhatsApp
+whatsapp.com
 *.whatsapp.com
+whatsapp.net
 *.whatsapp.net
 wa.me
 
