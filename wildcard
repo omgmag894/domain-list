@@ -1,23 +1,17 @@
-//
 // Instagram
-//
 *.instagram.com
 *.cdninstagram.com
 instagram.com
 www.instagram.com
 cdninstagram.com
 
-//
 // Facebook
-//
 *.facebook.com
 *.fbcdn.net
 facebook.com
 fbcdn.net
 
-//
 // YouTube
-//
 *.youtube.com
 *.googlevideo.com
 *.ytimg.com
@@ -33,9 +27,7 @@ youtubekids.com
 ytimg.l.google.com
 returnyoutubedislikeapi.com
 
-//
 // NotebookLM / Google AI
-//
 aistudio.google.com
 notebooklm.google.com
 deepmind.com
@@ -53,9 +45,7 @@ labs.google
 stitch.withgoogle.com
 clients6.google.com
 
-//
 // Google Workspace (Drive / Docs / Sheets / Slides / Forms)
-//
 *.drive.google.com
 *.docs.google.com
 *.sheets.google.com
@@ -67,9 +57,7 @@ sheets.google.com
 slides.google.com
 forms.google.com
 
-//
 // Google Core (авторизация, API, статика)
-//
 *.google.com
 *.googleapis.com
 *.gstatic.com
@@ -84,9 +72,7 @@ lh3.googleusercontent.com
 drive-thirdparty.googleusercontent.com
 drive-data-export.usercontent.google.com
 
-//
 // OpenAI
-//
 *.openai.com
 *.chatgpt.com
 *.oaistatic.com
@@ -98,32 +84,23 @@ files.oaiusercontent.com
 setup.auth.openai.com
 chat.openai.com.cdn.cloudflare.net
 
-//
 // Anthropic (Claude)
-//
 anthropic.com
 claude.ai
 
-//
 // xAI (Grok)
-//
 grok.com
 x.ai
 
-//
 // Microsoft Copilot
-//
 copilot.microsoft.com
 
-//
 // Ngrok
-//
+grok.com
 ngrok.com
 connect.ngrok-agent.com
 
-//
 // Notion
-//
 notion.com
 notion.so
 notion.new
@@ -131,23 +108,11 @@ notion.site
 notion-static.com
 notion-emojis.s3-us-west-2.amazonaws.com
 
-//
-// Telegram (минимально необходимое)
-//
-*.telegram.org
-*.t.me
-*.telegra.ph
-*.cdn-telegram.org
-*.telesco.pe
 
-//
-// WhatsApp (если нужен)
-//
+// WhatsApp
 *.whatsapp.com
 *.whatsapp.net
 wa.me
 
-//
 // Прочее
-//
 icanhazip.com
