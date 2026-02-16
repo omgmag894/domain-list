@@ -83,6 +83,9 @@ x.ai
 // Microsoft Copilot
 copilot.microsoft.com
 
+//Telegram
+*.telegram.org
+web.telegram.org
 
 // Notion
 notion.com
