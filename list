@@ -204,3 +204,6 @@ configuration.apple.com
 gsp-ssl.ls.apple.com
 gsp-ssl.ls-apple.com.akadns.net
 lcdn-locator.apple.com
+geoip.apple.com
+gspe35-ssl.ls.apple.com
+ls.apple.com
