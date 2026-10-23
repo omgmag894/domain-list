@@ -197,14 +197,6 @@ toolbox.googleapps.com
 icanhazip.com
 www.ray-ban.com
 bootstrapstudio.io
-captive.apple.com
-configuration.apple.com
-gsp-ssl.ls.apple.com
-gsp-ssl.ls-apple.com.akadns.net
-lcdn-locator.apple.com
-geoip.apple.com
-gspe35-ssl.ls.apple.com
-ls.apple.com
 v0.app
 r.stripe.com
 m.stripe.com
@@ -259,10 +251,6 @@ api-partner.spotify.com
 login.tailscale.com
 tailscale.com
 wiki.amnezia.host
-gsa.apple.com
-developerservices2.apple.com
-idmsa.apple.com
-developer.apple.com
 login.docker.com
 whoer.net
 gamehub-cdn.masnet.cn
