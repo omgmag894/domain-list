@@ -110,3 +110,5 @@ api.telegram.org
 platform.openai.com
 auth.openai.com
 www.ubldigital.com
+auth.docker.io
+registry-1.docker.io
