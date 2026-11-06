@@ -112,3 +112,7 @@ auth.openai.com
 www.ubldigital.com
 auth.docker.io
 registry-1.docker.io
+*.cursor.sh
+*.cursor.com
+*.cursorapi.com
+cursor-cdn.com
